@@ -8,7 +8,7 @@ drinks = {
 
 # money in RM
 # assume logically that the user can insert RM100 as the 
-# largest amount of money and only buy one drink at a time
+# largest amount of money and only buy one drink at a time (optional to add in bigger RM notes)
 rm = [100, 50, 20, 10, 5, 1]
 
 def showDrinks():
